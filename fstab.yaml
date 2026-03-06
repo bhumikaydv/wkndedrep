@@ -1,5 +1,5 @@
 mountpoints:
   /:
-  url: https://author-p181706-e1958874.adobeaemcloud.com/bin/franklin.delivery/<owner>/<repository>/main
-  type: "markup"
-  suffix: ".html"
+    url: "https://author-p181706-e1958874.adobeaemcloud.com/bin/franklin.delivery/bhumikaydv/wkndedrep/main"
+    type: "markup"
+    suffix: ".html"
